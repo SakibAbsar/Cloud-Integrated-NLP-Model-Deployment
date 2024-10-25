@@ -1,0 +1,5 @@
+
+{
+    "bucket_name": "your-s3-bucket-name",
+    "model_path": "path/to/your/sentiment_model"
+}
